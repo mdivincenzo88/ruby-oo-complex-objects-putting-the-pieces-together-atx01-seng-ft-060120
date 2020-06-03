@@ -50,3 +50,4 @@ def condition
   @condition = "new"
 end
 
+end
