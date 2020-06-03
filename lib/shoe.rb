@@ -42,7 +42,7 @@ def condition
   @condition
 end
 
-def repair_completed
+def cobble
   puts "Shoe has been repair!"
 end
 
