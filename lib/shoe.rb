@@ -30,6 +30,11 @@ def material=(material)
   @material = material
 end
 
+def condition=(condition)
+  @condition = condition
+end
+
+
 def material
   @material
 end
