@@ -47,7 +47,7 @@ def cobble
 end
 
 def condition
-  @condition = "new"
+  @new_condition = "new"
 end
 
 end
